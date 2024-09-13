@@ -5,15 +5,15 @@
 
 Here are some ideas to get you started:--->
 
-🔭 &nbsp;I’m currently integrating topographic data into an interactive world map based web application for better natural hazard research \
 🎒 &nbsp;I'm a recent Computer Science MS grad from the Ohio State University, with research focus on speech technologies \
+🔭 &nbsp;I’m currently integrating topographic data into an interactive world map based web application for better natural hazard research \
 🌱 &nbsp;I’m curious about bridging the gaps between research and real-world ML model performance \
 🤔 &nbsp;I’m passionate about exploring multi-modal alignment and block chain technologies \
 💻 &nbsp;Java was my first coding love, but Python has become my true passion and area of expertise \
 🔖 &nbsp;Currently reading 'Who Moved My Cheese?' - thoughts welcome!" \
 🤩 &nbsp;Digital art 🎨, Ancient architecture exploration 📸, travelling 🌎 and cooking 🍲 are my creative outlets. \
 📫 &nbsp;You can shoot me an email at <a href="mailto:beulah.karrolla@gmail.com"><img src="https://img.shields.io/badge/-beulah.karrolla@gmail.com-D14836?logo=Gmail&logoColor=white"/></a> I check mails regularly or 🤝🏻 we can connect on <a href="http://www.linkedin.com/in/beulah-karrolla"><img src="https://img.shields.io/badge/-Beulah%20Karrolla%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> \
-💡 &nbsp;Given a hundred ways, I look for a new way - 'Why Not?!'
+💡 &nbsp;Given a hundred ways, I like to look for a new way - 'Why Not?!'
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,10 +35,10 @@ Here are some ideas to get you started:--->
 ### Leetcode and GitHub Stats
 <p>
 <a href="https://leetcode.com/bkarrolla/">
-  <img height="300em" width="400em" src="https://leetcard.jacoblin.cool/bkarrolla?ext=heatmap&&theme=white"/>
+  <img height="200em" width="400em" src="https://leetcard.jacoblin.cool/bkarrolla?theme=dark"/>
 </a>
 <a href="https://github.com/Beulah-Karrolla">
-  <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beulah-Karrolla&show_icons=true&include_all_commits=true&count_private=true" align='top'/>
+  <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beulah-Karrolla&show_icons=true&include_all_commits=true&count_private=true&align='top'&theme=dark"/>
 </a>
 </p>
 
