@@ -20,17 +20,25 @@ Here are some ideas to get you started:--->
 ![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-ffffff?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat&logo=pytorch)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-ffffff?style=flat&logo=oracle&logoColor=FF0000)&nbsp;
+![Django](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=django&logoColor=092E20)&nbsp;
+![REST-API](https://img.shields.io/badge/-REST-ffffff?style=flat&logo=rest)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffffff?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-ffffff?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ffffff?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-ffffff?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffffff?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ffffff?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat&logo=mysql&logoColor=FF0000)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-ffffff?style=flat&logo=sqlalchemy&logoColor=FF0000)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat&logo=postgresql&logoColor=FF0000)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-ffffff?style=flat&logo=oracle&logoColor=FF0000)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-ffffff?style=flat&logo=github&logoColor=000000)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-ffffff?style=flat&logo=linux)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-ffffff?style=flat&logo=pytorch&logoColor=000000)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-ffffff?style=flat&logo=numpy&logoColor=000000)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-ffffff?style=flat&logo=pandas&logoColor=000000)&nbsp;
+
+
 
 ### Leetcode and GitHub Stats
 <p>
