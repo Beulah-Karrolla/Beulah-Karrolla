@@ -42,8 +42,8 @@ Here are some ideas to get you started:--->
 
 ### Leetcode and GitHub Stats
 <p>
-<a href="https://leetcode.com/bkarrolla/">
-  <img height="200em" width="400em" src="https://leetcard.jacoblin.cool/bkarrolla?theme=dark"/>
+<a href="https://leetcode.com/beulah_karrolla/">
+  <img height="200em" width="400em" src="https://leetcard.jacoblin.cool/beulah_karrolla?theme=dark"/>
 </a>
 <a href="https://github.com/Beulah-Karrolla">
   <img height="200em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Beulah-Karrolla&show_icons=true&include_all_commits=true&count_private=true&align='top'&theme=dark"/>
